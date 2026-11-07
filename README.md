@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Abhishek
 
-<!--
-**hazra1991/hazra1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and AI systems engineer in Bengaluru. I've been building Python backends since 2017, and now I build AI systems around large language models: retrieval pipelines, MCP servers, and the backend that runs them in production.
 
-Here are some ideas to get you started:
+**Building now:** an intelligence layer for Jira. It collects tickets, indexes design docs, and exposes everything to Claude through MCP. Plain Python pipeline, no LangChain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open source:** contributor to [boardfarm](https://github.com/lgirdk/boardfarm), a Python framework for automated testing of broadband devices ([my commits](https://github.com/lgirdk/boardfarm/commits?author=hazra1991)).
+
+**Writing:** [Engineering Notes](https://hazra1991.github.io): short reads and cheat sheets on Linux, Docker, Nginx, Python, and AI systems.
+
+**Stack:** Python · FastAPI · Django · PostgreSQL · Redis · Docker · Nginx · RAG · MCP
+
+[LinkedIn](https://www.linkedin.com/in/abhishekhazra/) · [Blog](https://hazra1991.github.io)
